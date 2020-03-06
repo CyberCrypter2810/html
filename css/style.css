@@ -1,0 +1,14 @@
+body {
+background-color: red;
+}
+
+h1,h2 {
+color: blue;
+background-color: yellow;
+text-align: center;
+}
+
+a {
+background-color: green;
+font-size: 24px;
+}
